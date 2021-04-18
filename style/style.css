@@ -1,3 +1,8 @@
 .message {
     color: blue;
 }
+
+.message_two {
+    color: green;
+    font-size: 40px;
+}
